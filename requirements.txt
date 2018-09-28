@@ -1,0 +1,13 @@
+click
+enum-compat
+eventlet
+Flask
+Flask-SocketIO
+greenlet
+itsdangerous
+Jinja2
+MarkupSafe
+python-engineio
+python-socketio
+six
+Werkzeug
