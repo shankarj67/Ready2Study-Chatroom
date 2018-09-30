@@ -36,4 +36,8 @@ application.
 
 On your friend's laptop open _http://your_ip_address:5000_
 
+<p align="center">
+  <img src="a.png" width="600px" alt="">
+</p>
+
 
